@@ -12,3 +12,5 @@ div.onclick = () => {
 
 
 document.addEventListener('DOMContentLoaded', () => alert("Загружено!"));
+
+console.log("Hello, world!")
